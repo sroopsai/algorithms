@@ -1,0 +1,4 @@
+a. if (a > b) then c = 0; // there is no then keyword in Java Programming language, it is a wrong statement.
+b. if a > b { c = 0; }//Parenthesis is missing on if statement
+c. if (a > b) c = 0; // Nothing wrong
+d. if (a > b) c = 0 else b = 0;// Missing semi-colon in 'if' clause
