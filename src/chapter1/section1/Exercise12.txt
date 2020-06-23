@@ -1,0 +1,6 @@
+1.1.12
+Initially a = [0] * 10; // an array of length 10 initialized to all values equal to zero.
+Later, a = [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+After another 'for' loop
+a = [0, 1, 2, 3, 4, 4, 3, 2, 1, 0]
+Print all values iteratively using 'for' loop.
