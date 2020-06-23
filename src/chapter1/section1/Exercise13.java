@@ -10,7 +10,7 @@ public class Exercise13 {
         StdOut.print("Enter # columns: ");
         int N = StdIn.readInt();
         int[][] matrix = new int[M][N];
-        StdOut.println("Enter Values for matrix (MxN matrix)");
+        StdOut.printf("Enter Values for matrix (%dx%d matrix)", M, N);
         for (int i  = 0; i < M; i++)
         {
             for(int j = 0; j < N; j++)
